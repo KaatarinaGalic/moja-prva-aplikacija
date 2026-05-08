@@ -3,5 +3,6 @@ export type Game = {
     title: string;
     description: string;
     imageUrl: string;
+    route: string;
 };
 
